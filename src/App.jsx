@@ -100,6 +100,7 @@ function App() {
           </div>
           <Routes>
             <Route path="/" element={<StepOne selectedData={selectedData} />} />
+            <Route path="/doors-cons-cra/" element={<StepOne selectedData={selectedData} />} />
             <Route path="/steptwo" element={<StepTwo />} />
             <Route path="/stepthree" element={<StepThree />} />
             <Route path="/stepfour" element={<StepFour />} />
