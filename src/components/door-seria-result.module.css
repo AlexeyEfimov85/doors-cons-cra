@@ -1,0 +1,8 @@
+.seriaResultWrapper {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    margin-top: -100px;
+}
+
+

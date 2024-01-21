@@ -1,0 +1,128 @@
+.stepLadder {
+    display: flex;
+    list-style: none;
+    width: 364px;
+    height: 45px;
+    padding: 0;
+    position: relative;
+    flex-direction: row-reverse;
+    margin: 0 0 51px -100px;
+}
+
+.stepInactive {
+    width: 105px;
+    height: 45px;
+    border-radius: 120px;
+    border: 1px solid #b7b7b7;
+    position: absolute;
+    background-color: #f8f8f8;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Cera Pro;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+}
+
+.stepActive {
+    width: 105px;
+    height: 45px;
+    border-radius: 120px;
+    border: 1px solid #b7b7b7;
+    position: absolute;
+    background-color: #e4032e;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Cera Pro;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #ffffff;
+    z-index: 15;
+}
+
+.forwardLink {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 166px;
+    height: 45px;
+    background-color: #e4032e;
+    border-radius: 10px;
+    font-family: Cera Pro;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #ffffff;
+    position: absolute;
+    bottom: 32px;
+    left: 210px;
+}
+
+.backLink {
+    display: block;
+    width: 45px;
+    height: 45px;
+    border-radius: 10px;
+    background-color: #C7C7C7;
+    position: absolute;
+    bottom: 32px;
+    left: 147.5px;
+}
+
+.backLink div {
+    position: relative;
+    top: 22px;
+    left: 17px;
+    width: 11px;
+    height: 1.5px;
+    background-color: #FFFFFF;
+}
+
+.backLink div::after {
+    content: '';
+    position: absolute;
+    width: 7.5px;
+    height: 1.5px;
+    top: -2px;
+    right: 7px;
+    background-color: #FFFFFF;
+    transform: rotate(-45deg);
+}
+
+.backLink div::before {
+    content: '';
+    position: absolute;
+    width: 7.5px;
+    height: 1.5px;
+    top: 2px;
+    right: 7px;
+    background-color: #FFFFFF;
+    transform: rotate(45deg);
+}
+
+.constr {
+    width: 100%;
+    background-color: #F8F8F8;
+    padding: 47px 0 125px 29px;
+    margin-top: 57px;
+}
+
+
+.links {
+    display: flex;
+    background: url('./../assets/images/navlinks_background.svg');
+    width: 540px;
+    height: 140px;
+    position: relative;
+    margin: -100px auto 0;
+}

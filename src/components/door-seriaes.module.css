@@ -1,0 +1,31 @@
+.seriaWrapper {
+    display: flex;
+    width: 50%;
+    gap: 30px;
+}
+
+.seriaName {
+    margin-top: 21px;
+    margin-bottom: 19px;
+    font-family: Cera Pro;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 23px;
+    letter-spacing: 0em;
+}
+
+.seriaDescr {
+    font-family: Cera Pro;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0px;
+    margin-bottom: 21px;
+}
+.seriaPrice {
+    font-family: Cera Pro;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;    
+}
