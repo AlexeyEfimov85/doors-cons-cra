@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "./static/css/main.4d33e85b.css",
+    "main.js": "./static/js/main.efd5aa8b.js",
+    "static/js/787.cca0a16f.chunk.js": "./static/js/787.cca0a16f.chunk.js",
+    "static/media/seriae_snigir.png": "./static/media/seriae_snigir.bf5f62e41fc75d4f3134.png",
+    "static/media/seria_snegir_pro.png": "./static/media/seria_snegir_pro.478d1460ae604a758252.png",
+    "static/media/seriae_ultimatum_next.png": "./static/media/seriae_ultimatum_next.c695f48e68dab9b505ba.png",
+    "static/media/seria_cyber.png": "./static/media/seria_cyber.a4ea1bf98e7558bcad32.png",
+    "static/media/house_result_snegir_pro.png": "./static/media/house_result_snegir_pro.c36cdc2666793ddb5981.png",
+    "static/media/house_result_snegir.png": "./static/media/house_result_snegir.bf1b26e44b105eca38f6.png",
+    "static/media/flat_result_ultimatum.png": "./static/media/flat_result_ultimatum.850eb01bfa94b77711be.png",
+    "static/media/flat_result_cyber.png": "./static/media/flat_result_cyber.6ded69bea6ab0022fc0d.png",
+    "index.html": "./index.html",
+    "static/media/navlinks_background.svg": "./static/media/navlinks_background.427dc63e94b9dc7c328e.svg",
+    "main.4d33e85b.css.map": "./static/css/main.4d33e85b.css.map",
+    "main.efd5aa8b.js.map": "./static/js/main.efd5aa8b.js.map",
+    "787.cca0a16f.chunk.js.map": "./static/js/787.cca0a16f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d33e85b.css",
+    "static/js/main.efd5aa8b.js"
+  ]
+}
