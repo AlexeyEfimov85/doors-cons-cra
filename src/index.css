@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: 'Cera Pro';
+  font-style: normal;
+  font-weight: 700;
+  src: url("../src/assets/fonts/CeraPro-Bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Cera Pro';
+  font-style: normal;
+  font-weight: 500;
+  src: url("../src/assets/fonts/CeraPro-Medium.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Cera Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: url("../src/assets/fonts/CeraPro-Regular.woff") format("woff");
+}
